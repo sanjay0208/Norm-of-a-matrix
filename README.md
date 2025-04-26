@@ -54,7 +54,7 @@ print('{:.2f}'.format(norm))
 ![image](https://github.com/user-attachments/assets/3707322e-767d-4e5d-a5c4-65bbb041caf0)
 
 
-### Infinity Norm of a Matrix
+### 3-Infinity Norm of a Matrix
 ![image](https://github.com/user-attachments/assets/fe5bd5b8-c521-4182-8b6e-3214e32961d1)
 
 
